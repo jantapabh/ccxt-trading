@@ -1,0 +1,2 @@
+# ccxt-trading
+ccxt-trading
